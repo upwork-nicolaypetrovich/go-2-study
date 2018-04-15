@@ -1,1 +1,1 @@
-# go-2-study
+This is the project of Poland universities in Ukraine, it goals to help ukrainian students get education in Poland. Website with unique structure and search mechanism.
